@@ -1,0 +1,7 @@
+F:\8th semester\C#\LAB\MID\first lab\bin\Debug\first lab.exe.config
+F:\8th semester\C#\LAB\MID\first lab\bin\Debug\first lab.exe
+F:\8th semester\C#\LAB\MID\first lab\bin\Debug\first lab.pdb
+F:\8th semester\C#\LAB\MID\first lab\obj\Debug\first lab.csprojAssemblyReference.cache
+F:\8th semester\C#\LAB\MID\first lab\obj\Debug\first lab.csproj.CoreCompileInputs.cache
+F:\8th semester\C#\LAB\MID\first lab\obj\Debug\first lab.exe
+F:\8th semester\C#\LAB\MID\first lab\obj\Debug\first lab.pdb
