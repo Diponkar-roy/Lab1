@@ -1,0 +1,2 @@
+F:\8th semester\C#\LAB\MID\lab3\obj\Debug\lab3.csprojAssemblyReference.cache
+F:\8th semester\C#\LAB\MID\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
