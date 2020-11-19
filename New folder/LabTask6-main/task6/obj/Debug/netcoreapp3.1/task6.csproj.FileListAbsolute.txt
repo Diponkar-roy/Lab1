@@ -1,0 +1,12 @@
+/Users/ash/Google Drive/SCs/VisualStudio/project/task6/task6/bin/Debug/netcoreapp3.1/task6.deps.json
+/Users/ash/Google Drive/SCs/VisualStudio/project/task6/task6/bin/Debug/netcoreapp3.1/task6.runtimeconfig.json
+/Users/ash/Google Drive/SCs/VisualStudio/project/task6/task6/bin/Debug/netcoreapp3.1/task6.runtimeconfig.dev.json
+/Users/ash/Google Drive/SCs/VisualStudio/project/task6/task6/bin/Debug/netcoreapp3.1/task6.dll
+/Users/ash/Google Drive/SCs/VisualStudio/project/task6/task6/bin/Debug/netcoreapp3.1/task6.pdb
+/Users/ash/Google Drive/SCs/VisualStudio/project/task6/task6/obj/Debug/netcoreapp3.1/task6.AssemblyInfoInputs.cache
+/Users/ash/Google Drive/SCs/VisualStudio/project/task6/task6/obj/Debug/netcoreapp3.1/task6.AssemblyInfo.cs
+/Users/ash/Google Drive/SCs/VisualStudio/project/task6/task6/obj/Debug/netcoreapp3.1/task6.csproj.CoreCompileInputs.cache
+/Users/ash/Google Drive/SCs/VisualStudio/project/task6/task6/obj/Debug/netcoreapp3.1/task6.dll
+/Users/ash/Google Drive/SCs/VisualStudio/project/task6/task6/obj/Debug/netcoreapp3.1/task6.pdb
+/Users/ash/Google Drive/SCs/VisualStudio/project/task6/task6/obj/Debug/netcoreapp3.1/task6.genruntimeconfig.cache
+/Users/ash/Google Drive/SCs/VisualStudio/project/task6/task6/obj/Debug/netcoreapp3.1/task6.csprojAssemblyReference.cache

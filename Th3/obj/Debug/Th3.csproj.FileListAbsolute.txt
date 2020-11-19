@@ -1,0 +1,7 @@
+F:\8th semester\C#\LAB\MID\Th3\bin\Debug\Th3.exe.config
+F:\8th semester\C#\LAB\MID\Th3\bin\Debug\Th3.exe
+F:\8th semester\C#\LAB\MID\Th3\bin\Debug\Th3.pdb
+F:\8th semester\C#\LAB\MID\Th3\obj\Debug\Th3.csprojAssemblyReference.cache
+F:\8th semester\C#\LAB\MID\Th3\obj\Debug\Th3.csproj.CoreCompileInputs.cache
+F:\8th semester\C#\LAB\MID\Th3\obj\Debug\Th3.exe
+F:\8th semester\C#\LAB\MID\Th3\obj\Debug\Th3.pdb
